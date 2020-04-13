@@ -1,0 +1,6 @@
+name: Test
+main: de.marvinleiers.guiapi.GuiAPI
+author: Marvin Leiers
+version: 1.0
+commands:
+  gui:
